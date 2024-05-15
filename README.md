@@ -23,8 +23,8 @@ The goal is to explore and elucidate the implications of privacy and tracking te
 To get started with this project, ensure you have Python 3.10 installed on your machine. Then, you can clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/canvas-fingerprint.git
-cd canvas-fingerprint
+git clone [https://github.com/KinderRookie/CanvasFingerPrint.git](https://github.com/KinderRookie/CanvasFingerPrint.git)
+cd CanvasFingerPrint
 pip install pygame
 
 
